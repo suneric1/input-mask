@@ -1,6 +1,8 @@
 # input-mask
 A simple input mask directive for AngularJS. It's currently only for numeric characters.
 
+[Demo](https://stackblitz.com/edit/angularjs-tqmfan)
+
 ## How to use
 First, replace the module name with yours.
 ```js
